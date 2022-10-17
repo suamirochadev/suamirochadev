@@ -12,7 +12,7 @@
 - 🌱 Atualmente estou aprendendo Python e Java
 - 👯 Estou procurando colaborar em pequenos projetos
 - 🤔 Estou procurando ajuda com Java
-- 💬 Pergunte-me sobre aqui [link] (https://github.com/suamirocha/suamirocha/issues)
+- 💬 Pergunte-me sobre aqui [link](https://github.com/suamirocha/suamirocha/issues)
 - 📫 Como chegar até mim: [clique aqui](https://beacons.ai/surocha/home)
 - 😄 Pronomes: Ela/Dela Ela/Ela
 
