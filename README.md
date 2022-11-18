@@ -16,7 +16,7 @@ I love contributing to the community with [Dev.to](https://dev.to/suamirocha).
   <a href="https://www.hackerrank.com/suamirochati" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
  <a href="https://dev.to/suamirocha" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
  <div>
-<a href="https://github.com/suamirocha" title="visitas"><img src="https://counter4.optistats.ovh/private/webcontadores.php?c=3bmxqs7mr3511w497rfx1wudmw3peuct" border="0" title="visitas" alt=" visitas"></a></div>
+<img src="https://komarev.com/ghpvc/?username=suamirocha&style=for-the-badge"/>
 
 ## ⚡ Technologies
 
