@@ -1,10 +1,5 @@
 # Suami Rocha
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suamirochadev&label=Profile%20views&color=000000&style=plastic" alt="suamirochadev" /> </p>
-Desenvolvedora de Software 🤍
-
-Eu sou um Desenvolvedora Full-Stack em: HTML, CSS, JavaScript, React, TypeScript, Node, React Native, Tailwind, Styled-Components, Bootstrap, Storybook, Prisma, MySQL, PHP, Java, Python e WordPress.
-
-Aqui no meu perfil do GitHub, você pode ver todos os meus projetos. Além disso, gosto de ajudar novos desenvolvedores a entrar nesse mundo e aprender sobre desenvolvimento de software.
 
 www.suamirocha.com.br
 
@@ -22,5 +17,3 @@ www.suamirocha.com.br
 - [A Diferença entre Hot Reload e Hot Restart no Flutter: Potencializando o Desenvolvimento](https://suamirocha.com.br/a-diferenca-entre-hot-reload-e-hot-restart-no-flutter-potencializando-o-desenvolvimento/)
 <!-- BLOG-POST-LIST:END -->
 <a href='https://ko-fi.com/Y8Y1JJRAR' target='_blank'><img height='26' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suamirochadev&show_icons=true&theme=graywhite&locale=en&layout=compact" alt="suamirochadev" /></p>
