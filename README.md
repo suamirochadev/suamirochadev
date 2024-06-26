@@ -4,4 +4,7 @@
 https://bento.me/suamirochadev
 
 <a href="https://www.linkedin.com/in/suamirochadev/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Suami%20Rocha-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suamirochadev/"/></a>
+
+
+[![An image of @suamirochadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suamirochadev)](https://holopin.io/@suamirochadev)
 --
