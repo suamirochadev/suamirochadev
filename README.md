@@ -73,13 +73,13 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
                                           <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=jsoncodable&theme=icegradient"></img>
                                           </a>
                                           <br>
-                                          📹 <a href="https://youtu.be/P8VAfvCe1WQ?si=IUJIkzZrv_5aYP0r">Talk Demo</a>
+                                          📹 <a href="https://www.youtube.com/live/e-4Nh2Kbxlw?si=EmeWX_rckkNgr6IZ">Talk Demo</a>
                                           </br>
-                                          🔗 <a href=" ">Live Demo</a>
+                                          🔗 <a href="https://docs.google.com/presentation/d/1kb8iEy9wfV5ZwQBD3EuQRAkKLsZNEracxwlo7_tXJn8/edit?usp=sharing">Live PPTX</a>
                           </td>                    
                         <td width="30%">
                                 <img alt="image" src="https://media.licdn.com/dms/image/D4D22AQHFateLzspnLA/feedshare-shrink_1280/0/1720365280425?e=1723075200&v=beta&t=Imok9E4ALTSYUimOdJuGKXB8sXQHgpjbSKqImAubeWM">
-                              <p>🗓️ Jul 06, 2024</p>
+                              <p>🗓️ Jul 27, 2024</p>
                             📍 Unama
                         </td>
                     </tr>
