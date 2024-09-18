@@ -97,6 +97,18 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
     <tr>
       <td width="80%">
         <strong>
+          <a href="https://medium.com/brasilflutter/roteiro-altamente-subjetivo-para-desenvolvimento-com-flutter-add7cf9f310d">Highly subjective roadmap for flutter development</a></strong>
+          <p>
+            Important tips for learning Flutter.
+          </p>
+      </td>
+      <td width="20%">🗓️ Apr 19, 2024</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td width="80%">
+        <strong>
           <a href="https://medium.com/@suamirochadev/desenvolvendo-um-widget-de-upload-com-flutter-8de446b1d024">Developing an upload widget with Flutter</a></strong>
           <p>
             This was one of the many challenges I faced in my daily internship routine. At one point, I needed to develop a widget that could upload PDFs and also had the drag-and-drop functionality in the surrounding area.
