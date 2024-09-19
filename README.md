@@ -93,6 +93,34 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
  I usually publish articles on [Medium](https://medium.com/@suamirochadev) and on Dev.To [Dev.To](https://dev.to/suamirochadev) whenever I have the chance (and the ideas):
 
 <table>
+
+
+  <tbody>
+    <tr>
+      <td width="80%">
+        <strong>
+          <a href="https://dev.to/devsnorte/como-projetar-para-varias-telas-aprenda-os-4cs-551">How to design for multiple screens? Learn the 4c's</a></strong>
+          <p>
+            When designing a new product or feature, it's important to think about the different types of platforms the design will be available on.
+          </p>
+      </td>
+      <td width="20%">🗓️ May 31, 2024</td>
+    </tr>
+  </tbody>
+  
+  <tbody>
+    <tr>
+      <td width="80%">
+        <strong>
+          <a href="https://dev.to/suamirochadev/web-ou-app-qual-o-melhor-para-criar-em-flutter-4oio">Web or App? What is the best way to create in Flutter?</a></strong>
+          <p>
+            Flutter, a framework developed by Google, has stood out for its ability to create native user interfaces for iOS, Android, Web and desktop with a single code base. However, when it comes to deciding whether to develop for the web or as a mobile application (App) in Flutter, there are several considerations to make.
+          </p>
+      </td>
+      <td width="20%">🗓️ May 31, 2024</td>
+    </tr>
+  </tbody>
+  
   <tbody>
     <tr>
       <td width="80%">
@@ -105,6 +133,21 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
       <td width="20%">🗓️ Apr 19, 2024</td>
     </tr>
   </tbody>
+
+<tbody>
+    <tr>
+      <td width="80%">
+        <strong>
+          <a href="https://dev.to/suamirochadev/5-dicas-de-flutter-36ee">5 Tips Flutter</a></strong>
+          <p>
+            Are you looking to improve your Flutter development skills?
+              Here are five practical tips and tricks for Flutter
+          </p>
+      </td>
+      <td width="20%">🗓️ Apr 14, 2024</td>
+    </tr>
+  </tbody>
+  
   <tbody>
     <tr>
       <td width="80%">
