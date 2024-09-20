@@ -30,7 +30,7 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=suamirochadev&theme=ocean-gradient&date_format=M%20j%5B%2C%20Y%5D" alt="Suami's GitHub Streaks" />
 </div>
 
-## Projects
+## Challenges
 
 
 <table>
