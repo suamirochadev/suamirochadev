@@ -79,8 +79,8 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
             </a>
           </td>
       <td>
-            <a href="https://github.com/suamirochadev/expenses">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=expenses&theme=oceangradient" alt="Expenses"></img>
+            <a href="https://github.com/suamirochadev/expenses-app">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=expenses-app&theme=oceangradient" alt="Expenses"></img>
             </a>
           </td>
     </tr>
