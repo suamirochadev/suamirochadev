@@ -40,11 +40,13 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
           <th>Tada</th>
           <th>Only Digital</th>
           <th>Little Questions</th>
+          <th>Expenses</th>
     </tr>
     <tr>
           <th>Todo List</th>
           <th>Ecommerce UI</th>
           <th>Quizz / Trivia</th>
+          <th>Finance / Expenses</th>
     </tr>
     <tr>
           <td>
@@ -56,6 +58,9 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
           <td>
             <img src="https://github.com/suamirochadev/little-questions/blob/main/assets/images/littlequestions.gif" alt="Flutter Quizz">    </img>
           </td>
+          <td>
+            <img src="https://github.com/suamirochadev/expenses-app/blob/main/assets/images/expenses.gif" alt="Expenses App Flutter">    </img>
+          </td>
     </tr>
     <tr>
           <td>
@@ -65,12 +70,17 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
           </td>
       <td>
             <a href="https://github.com/suamirochadev/onlydigital">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=onlydigital&theme=oceangradient" alt="Tada"></img>
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=onlydigital&theme=oceangradient" alt="Only Digital"></img>
             </a>
           </td>
       <td>
             <a href="https://github.com/suamirochadev/little-questions">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=little-questions&theme=oceangradient" alt="Tada"></img>
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=little-questions&theme=oceangradient" alt="Little Questions"></img>
+            </a>
+          </td>
+      <td>
+            <a href="https://github.com/suamirochadev/expenses">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=expenses&theme=oceangradient" alt="Expenses"></img>
             </a>
           </td>
     </tr>
