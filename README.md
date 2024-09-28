@@ -128,8 +128,20 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
  I usually publish articles on [Medium](https://medium.com/@suamirochadev) and on Dev.To [Dev.To](https://dev.to/suamirochadev) whenever I have the chance (and the ideas):
 
 <table>
-
-
+  
+<tbody>
+    <tr>
+      <td width="80%">
+        <strong>
+          <a href="https://dev.to/devsnorte/como-fazer-deploy-no-vercel-com-o-seu-app-web-flutter-3o43">How to Deploy Your Flutter Web App on Vercel</a></strong>
+          <p>
+            I'm here to bring you this "guide" on how to publish your Flutter web application on the well-known site called Vercel.
+          </p>
+      </td>
+      <td width="20%">🗓️ Sep 28, 2024</td>
+    </tr>
+  </tbody>
+  
   <tbody>
     <tr>
       <td width="80%">
@@ -195,6 +207,7 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
       <td width="20%">🗓️ Apr 10, 2024</td>
     </tr>
   </tbody>
+  
 </table>
 
 
