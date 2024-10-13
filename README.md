@@ -128,6 +128,19 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
  I usually publish articles on [Medium](https://medium.com/@suamirochadev) and on Dev.To [Dev.To](https://dev.to/suamirochadev) whenever I have the chance (and the ideas):
 
 <table>
+
+<tbody>
+    <tr>
+      <td width="80%">
+        <strong>
+          <a href="https://dev.to/suamirochadev/my-first-time-participating-in-hacktoberfest-2024-4940">My first time participating in Hacktoberfest 2024</a></strong>
+          <p>
+            This was my first time participating in this event, and I was really happy because I was able to actively contribute to open-source projects that I really like and follow.
+          </p>
+      </td>
+      <td width="20%">🗓️ Out 13, 2024</td>
+    </tr>
+  </tbody>
   
 <tbody>
     <tr>
