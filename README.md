@@ -113,7 +113,7 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
                                           🔗 <a href="https://docs.google.com/presentation/d/1kb8iEy9wfV5ZwQBD3EuQRAkKLsZNEracxwlo7_tXJn8/edit?usp=sharing">Live PPTX</a>
                           </td>                    
                         <td width="30%">
-                                <img alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQHFateLzspnLA/feedshare-shrink_1280/feedshare-shrink_1280/0/1720365280425?e=1729123200&v=beta&t=KEzvqMcRpnSHRSqFmg8V6NUg56TiHmo0gVHeTuuBbV8">
+                                <img alt="image" src="https://github.com/suamirochadev/suamirochadev/blob/main/google.jpeg">
                               <p>🗓️ Jul 27, 2024</p>
                             📍 Unama
                         </td>
