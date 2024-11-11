@@ -15,7 +15,6 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
   - [projects that showcase the great power of Flutter and what you can create with it](#challenges)
   - [giving talks whenever I find the opportunity to](#speaking)
   - [articles and flutter content](#articles)
-  - [badges](#badges)
 * 🪴 I'm currently learning everything I can find about Flutter 🩵
 * 💭 Ask me about anything Flutter 🩵
 * 📧 How to reach me:
@@ -227,44 +226,4 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
 
 [![An image of @suamirochadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suamirochadev)](https://holopin.io/@suamirochadev)
 --
-## Badges
-<table>
-  
-  <tbody width="100%">
-    <tr>
-          <th>
-            AI Essentials
-          </th>
-          <th>
-           ''
-          </th>
-          <th>
-            ''
-          </th>
-    </tr>
-    <tr>
-      <th>
-        Google
-      </th>
-      <th>
-        ''
-      </th>
-      <th>
-        ''
-      </th>
-    </tr>
-    <tr>
-          <td>
-            <img src="https://github.com/suamirochadev/suamirochadev/blob/main/google-ai-essentials.png" alt="Bagde AI Essentials"  style="width: 100%; height: auto;" align="center"></img>
-          </td>
-          <td>
-            <img src="https://github.com/suamirochadev/suamirochadev/blob/main/google-ai-essentials.png" alt="Bagde AI Essentials"  style="width: 100%; height: auto;" align="center"></img>
-          </td>
-          <td>
-            <img src="https://github.com/suamirochadev/suamirochadev/blob/main/google-ai-essentials.png" alt="Bagde AI Essentials"  style="width: 100%; height: auto;" align="center"></img>
-          </td>
-    </tr>
-  </tbody>
 
-  
-</table>
