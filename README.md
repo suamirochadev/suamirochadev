@@ -12,7 +12,6 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
 
 
 * 📲 I'm currently working on
-  - [projects that showcase the great power of Flutter and what you can create with it](#challenges)
   - [giving talks whenever I find the opportunity to](#speaking)
   - [articles and flutter content](#articles)
 * 🪴 I'm currently learning everything I can find about Flutter 🩵
@@ -30,67 +29,7 @@ I started getting involved with the vibrant Flutter Community in late 2023 by sh
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=suamirochadev&theme=ocean-gradient&date_format=M%20j%5B%2C%20Y%5D" alt="Suami's GitHub Streaks" />
 </div>
 
-## Challenges
 
-
-<table>
-  
-  <tbody width="100%">
-    <tr>
-          <th>Tada</th>
-          <th>Only Digital</th>
-          <th>Little Questions</th>
-          <th>Expenses</th>
-    </tr>
-    <tr>
-          <th>Todo List</th>
-          <th>Ecommerce UI</th>
-          <th>Quizz / Trivia</th>
-          <th>Finance / Expenses</th>
-    </tr>
-    <tr>
-          <td>
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb295YzBwNGJkczVjcTdwOG5ldzNrZjhpb2NreHBkNXB1cWY5Y2N5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D4OjvrO8eMjwo6HEMB/giphy.gif" alt="Flutter Todo List with Mobx">    </img>
-          </td>
-          <td>
-            <img src="https://github.com/suamirochadev/onlydigital/blob/main/assets/images/onlydigital.gif" alt="Flutter Ecommerce UI">    </img>
-          </td>
-          <td>
-            <img src="https://github.com/suamirochadev/little-questions/blob/main/assets/images/littlequestions.gif" alt="Flutter Quizz">    </img>
-          </td>
-          <td>
-            <img src="https://github.com/suamirochadev/expenses-app/blob/main/assets/images/expenses.gif" alt="Expenses App Flutter">    </img>
-          </td>
-    </tr>
-    <tr>
-          <td>
-            <a href="https://github.com/suamirochadev/tada">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=tada&theme=oceangradient" alt="Tada"></img>
-            </a>
-          </td>
-      <td>
-            <a href="https://github.com/suamirochadev/onlydigital">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=onlydigital&theme=oceangradient" alt="Only Digital"></img>
-            </a>
-          </td>
-      <td>
-            <a href="https://github.com/suamirochadev/little-questions">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=little-questions&theme=oceangradient" alt="Little Questions"></img>
-            </a>
-          </td>
-      <td>
-            <a href="https://github.com/suamirochadev/expenses-app">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=suamirochadev&repo=expenses-app&theme=oceangradient" alt="Expenses"></img>
-            </a>
-          </td>
-    </tr>
-  </tbody>
-  
-</table>
-
-
-
----
 
 ## Speaking
 
