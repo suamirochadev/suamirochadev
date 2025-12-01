@@ -4,7 +4,7 @@
 ###### Data Analytic Machine ✧ Learning 
 
 - 🌍 Sou de **Araguaína - TO**
-- 📚 Estudando [**Data Analytics<br> pela FIAP**](https://postech.fiap.com.br/curso/data-analytics)
+- 📚 Estudando [**Data Science com Python <br> pelo DIO & Santander**](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2025-2-sem)
 - 📈 Me preparando para a <br> certificação **AWS Practitioner**<br> pelo [**LINUXTIPS**](https://linuxtips.io?wlr_ref=REF-LT-LDR-0RD) #ChamaAsMina 
 
 - 🎓 **Inglês intermediario**
